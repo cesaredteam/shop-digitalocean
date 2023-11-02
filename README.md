@@ -1,2 +1,2 @@
 # shop-digitalocean
-deploy in digitalocean
+despliegue de app con django en digital ocean
